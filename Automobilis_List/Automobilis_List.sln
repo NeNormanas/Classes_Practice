@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automobilis_List", "Automobilis_List\Automobilis_List.csproj", "{4697C826-9454-4803-82E5-8647E49ADA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4697C826-9454-4803-82E5-8647E49ADA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4697C826-9454-4803-82E5-8647E49ADA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4697C826-9454-4803-82E5-8647E49ADA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4697C826-9454-4803-82E5-8647E49ADA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B699D3-A8B4-4287-9E92-B01610387272}
+	EndGlobalSection
+EndGlobal
